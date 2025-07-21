@@ -1,0 +1,12 @@
+# Python virtual environment
+.venv/
+
+# Secret files and generated data
+secret.key
+database.bin
+
+# Python cache files
+__pycache__/
+
+# OS-specific files (e.g., for macOS)
+.DS_Store
